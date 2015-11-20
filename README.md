@@ -4,7 +4,9 @@
 
 现在就加入 [**FrontSeat**](http://frontseat.io) 一个专注前端的开源中文社区！
 
-点击[这里](https://www.gitbook.com/read/book/li-xinyang/frontend-notebook)开始阅读！
+点击[这里](https://www.gitbook.com/read/book/li-xinyang/frontend-notebook)开始在 GitBook 阅读！
+
+点击[这里](http://wiki.jikexueyuan.com/project/fend_note/)开始在极客学院 Wiki 阅读！（中国大陆访问速度较快）
 
 前端开发笔记本的 GitHub 地址在[这里](https://github.com/li-xinyang/FEND_Note)。如果你觉得这个项目不错，请点击 Star 一下，您的支持是我最大的动力。
 

@@ -38,6 +38,7 @@
   - [语句](chapter2/08_statement.md)
   - [闭包](chapter2/09_closure.md)
   - [面向对象](chapter2/10_object.md)
+  - [正则表达式](chapter2/12_reg_exp.md)
 - [DOM 编程](chapter3/00_intro.md)
   - [文档树（DOM Tree）](chapter3/01_dom_tree.md)
   - [节点操作](chapter3/02_node_manipulation.md)
