@@ -1,14 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [类型系统](#%E7%B1%BB%E5%9E%8B%E7%B3%BB%E7%BB%9F)
-  - [标准类型](#%E6%A0%87%E5%87%86%E7%B1%BB%E5%9E%8B)
-  - [变量转换表](#%E5%8F%98%E9%87%8F%E8%BD%AC%E6%8D%A2%E8%A1%A8)
-  - [类型识别](#%E7%B1%BB%E5%9E%8B%E8%AF%86%E5%88%AB)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 ## 类型系统
 
 javascript 类型系统可以分为标准类型和对象类型，进一步标准类型又可以分为原始类型和引用类型，而对象类型又可以分为内置对象类型、普通对象类型、自定义对象类型。
@@ -17,17 +6,17 @@ javascript 类型系统可以分为标准类型和对象类型，进一步标准
 
 ### 标准类型
 
-标准类型共包括了6个分别是：
+标准类型共包括了**6**个分别是：
 
-**原始类型**：
+**原始类型（值类型）**：
 
-- Undefined
-- Null
-- Boolean
-- String
-- Number
+- Undefined `undefined`
+- Null `null`
+- Boolean `true`
+- String `'hello'`
+- Number `123`
 
-**引用类型**：
+**引用类型（对象类型）**：
 - Object
 
 ```javascript

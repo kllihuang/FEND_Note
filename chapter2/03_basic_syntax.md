@@ -1,16 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [基本语法](#%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95)
-  - [变量标示符](#%E5%8F%98%E9%87%8F%E6%A0%87%E7%A4%BA%E7%AC%A6)
-  - [关键字与保留字](#%E5%85%B3%E9%94%AE%E5%AD%97%E4%B8%8E%E4%BF%9D%E7%95%99%E5%AD%97)
-  - [字符敏感](#%E5%AD%97%E7%AC%A6%E6%95%8F%E6%84%9F)
-  - [严格模式](#%E4%B8%A5%E6%A0%BC%E6%A8%A1%E5%BC%8F)
-  - [注释](#%E6%B3%A8%E9%87%8A)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 ## 基本语法
 
 ### 变量标示符
@@ -26,6 +13,8 @@ var name0 = null;
 ### 关键字与保留字
 
 JavaScript 在语言定义中保留的字段，这些字段在语言使用中存在特殊意义或功能，在程序编写的过程中不可以当做变量或函数名称使用。无需记忆，报错修改即可。
+
+关键字与保留字可以在 [Mozilla 开发者站点](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar)找到。
 
 ### 字符敏感
 

@@ -1,17 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [语句](#%E8%AF%AD%E5%8F%A5)
-  - [条件控制语句](#%E6%9D%A1%E4%BB%B6%E6%8E%A7%E5%88%B6%E8%AF%AD%E5%8F%A5)
-  - [循环控制语句](#%E5%BE%AA%E7%8E%AF%E6%8E%A7%E5%88%B6%E8%AF%AD%E5%8F%A5)
-    - [for-in](#for-in)
-  - [异常处理语句](#%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E8%AF%AD%E5%8F%A5)
-  - [with 语句](#with-%E8%AF%AD%E5%8F%A5)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-
 ## 语句
 
 ### 条件控制语句
@@ -19,8 +5,8 @@
 其中expression可以使用整型，字符串，甚至表达式
 
 ```javascript
-if (expression) {statement}
-else if (expression) {statement1}
+if (expression0) {statement0}
+else if (expression1) {statement1}
 else {statement2}
 
 // JavaScript 中的 case 可以使用整型，字符串，甚至表达式
