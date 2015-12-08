@@ -2,8 +2,6 @@
 
 [![Join the chat at https://gitter.im/li-xinyang/FEND_Note](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/li-xinyang/FEND_Note?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-> 现在就加入 [**FrontSeat**](http://frontseat.io) 一个专注前端的开源中文社区！
-
 点击[这里](https://www.gitbook.com/read/book/li-xinyang/frontend-notebook)开始在 GitBook 阅读！
 
 点击[这里](http://wiki.jikexueyuan.com/project/fend_note/)开始在极客学院 Wiki 阅读！（中国大陆访问速度较快）
@@ -22,7 +20,7 @@
 
 ![笔记路径规划](img/C/career-path.jpg)
 
-《前端笔记本》涵盖了 Web 前端开发所需的全部基本知识以及所对应的学习路径。它并不能当做一本完整的学习材料来进行前端的学习，因为在有限的篇幅中无法深入的展开每一个单独的知识点。它更适合作为一个学习清单或者是查询手册，结合其他在各个方面更专业的图书或者官方文档来进行同步学习。在学习过程中为了能达到最佳的学习效果，也可将每个技术点实现并进行适当的拓展。如果你有问题需要解决或者心得想要分享也欢迎你来到 [**FrontSeat**](http://frontseat.io) 。
+《前端笔记本》涵盖了 Web 前端开发所需的全部基本知识以及所对应的学习路径。它并不能当做一本完整的学习材料来进行前端的学习，因为在有限的篇幅中无法深入的展开每一个单独的知识点。它更适合作为一个学习清单或者是查询手册，结合其他在各个方面更专业的图书或者官方文档来进行同步学习。在学习过程中为了能达到最佳的学习效果，也可将每个技术点实现并进行适当的拓展。
 
 ### 写作进程
 

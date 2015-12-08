@@ -1,12 +1,6 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [前端工程师概述](#%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%A6%82%E8%BF%B0)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 ## 前端工程师概述
+
+[TOC]
 
 **网页发展史**
 
@@ -18,11 +12,11 @@ Web 1.0 -> Web 2.0（基于 Ajax） -> Web 3.0 （基于 HTML5）
 
 **前端职责**
 
-视觉稿（配色图标距离空间） + 交互稿（用户逻辑） = UI （用户界面）
+视觉稿（配色图标距离空间） + 交互稿（用户逻辑） = UI（用户界面）
 
-视觉稿 -> [页面制作]
+视觉稿 -> 页面制作
 
-交互稿 -> [页面逻辑开发]
+交互稿 -> 页面逻辑开发
 
 **所需技能**
 
