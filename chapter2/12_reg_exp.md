@@ -71,7 +71,7 @@
 ```
 // str.match(regexp)
 var url = 'http://www.google.com/query?test=li-xinyang#cool';
-var reg = /(https?:)\/\/([^\/]+)(\/[^\?]*)?(\?[^#]*)?(#,*)?/;
+var reg = /(https?:)\/\/([^\/]+)(\/[^\?]*)?(\?[^#]*)?(#.*)?/;
 
 var arr = url.match(reg);
 var protocol = arr[1];
