@@ -50,6 +50,10 @@
 
 - [NEC](http://nec.netease.com/) {N: nice, E: easy, C: css;}
 
+### 声明
+
+前端笔记本大纲及内容由[网易云课堂前端专业](http://mooc.study.163.com/smartSpec/detail/12001.htm_)改编
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work by <a xmlns:cc="http://creativecommons.org/ns#" href="li-xinyang.com" property="cc:attributionName" rel="cc:attributionURL">Li Xinyang</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 <!-- Place this tag right after the last button or just before your close body tag. -->
