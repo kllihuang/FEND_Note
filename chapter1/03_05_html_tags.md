@@ -44,7 +44,7 @@
 <!-- 当前窗口显示 -->
 <a href="http://sample-link.com" title="Sample Link" target="_self">Sample</a>
 <!-- 新窗口显示 -->
-<a href="http://sample-link.com" title="Sample Link" target="_blacnk">Sample</a>
+<a href="http://sample-link.com" title="Sample Link" target="_blank">Sample</a>
 <!-- iframe 中打开链接 -->
 <a href="http://sample-link.com" title="Sample Link" target="iframe-name">Sample</a>
 <iframe name="iframe-name" frameborder="0"></iframe>
