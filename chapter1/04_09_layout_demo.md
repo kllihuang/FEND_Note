@@ -35,7 +35,7 @@ NOTE：设置 auto 会根据浏览器宽度自动设置外边距尺寸。在设�
 所需知识：
 
 - float 属性，使纵向排列的块级元素，横向排列
-- margin 属性，设置列直接的间距
+- margin 属性，设置列之间的间距
 
 ```html
 <style type="text/css" media="screen">
