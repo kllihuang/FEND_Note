@@ -7,8 +7,9 @@
   - [安装](#%E5%AE%89%E8%A3%85)
     - [Windows/OS X](#windowsos-x)
     - [Ubuntu](#ubuntu)
+    - [Sublime 快捷键](#sublime-%E5%BF%AB%E6%8D%B7%E9%94%AE)
   - [推荐插件](#%E6%8E%A8%E8%8D%90%E6%8F%92%E4%BB%B6)
-    - [1. Package Control](#1-package-control)
+    - [1.Package Control](#1package-control)
     - [2.Emmet](#2emmet)
     - [3.JQuery](#3jquery)
     - [4.FileHeader](#4fileheader)
@@ -44,7 +45,7 @@ Sublime Text是一款性感的编辑器，具有优雅，快速，插件多等�
 
 #### 推荐插件
 
-##### 1. Package Control
+##### 1.Package Control
 
 以后的插件安装基本都靠他了，安装方法可以去[Package Control](https://packagecontrol.io/installation)查看，注意Sublime Text的版本问题。
 
